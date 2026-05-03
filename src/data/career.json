@@ -1,7 +1,7 @@
 [
   {
     "company": "NTT Data",
-    "role": "Full-stack Developer",
+    "role": "Software Engineer",
     "period": "Oct 2024 - Present",
     "type": "Full-time",
     "description": "Develop and maintain scalable microservices using Spring Boot and reactive programming with RxJava. Responsible for implementing data structures in Azure SQL and integrating asynchronous messaging via Apache Kafka for external service communication. Manage service deployments on Kubernetes (AKS) clusters through Jenkins pipelines, ensuring high code quality with unit and integration testing (JUnit/Mockito) within an Agile (Scrum) environment.",
