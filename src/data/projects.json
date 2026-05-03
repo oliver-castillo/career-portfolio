@@ -1,20 +1,29 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Dark Fall",
+    "description": "Theme based on Nightfall and Ayu Dark for JetBrains tools. Compatible with IntelliJ IDEA (Ultimate, Community), Android Studio, AppCode, Aqua, CLion, Code With Me Guest, DataGrip, DataSpell, GoLand, JetBrains Client, JetBrains Gateway, MPS, PhpStorm, PyCharm (Professional, Community), Rider, RubyMine, RustRover, WebStorm and Writerside.",
+    "images": ["dark-fall-01.png", "dark-fall-02.jpg"],
+    "tech": ["Kotlin", "XML", "JSON"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "https://plugins.jetbrains.com/plugin/25293-dark-fall",
+    "category": "Published JetBrains Plugin"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "title": "DB Starter",
+    "description": "A JavaFX application to start the PostgreSQL database engine.",
+    "images": ["db-starter-01.png"],
+    "tech": ["Java", "JavaFX"],
+    "platforms": ["windows"],
+    "link": "https://github.com/oliver-castillo/db-starter",
+    "category": "Hobby"
+  },
+  {
+    "title": "JWT Authentication Implementation",
+    "description": "Authentication with Java and Spring Boot using JWT with different libraries.",
+    "images": ["jwt-01.webp"],
+    "tech": ["Java", "Spring", "JWT"],
+    "platforms": ["windows", "linux", "apple-ios"],
+    "link": "https://github.com/oliver-castillo/auth-jwt",
     "category": "Hobby"
   }
 ]

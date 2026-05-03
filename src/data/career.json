@@ -1,26 +1,80 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
-  },
-  {
-    "company": "Demo Company",
+    "company": "NTT Data",
     "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "period": "Oct 2024 - Present",
+    "type": "Full-time",
+    "description": "Develop and maintain scalable microservices using Spring Boot and reactive programming with RxJava. Responsible for implementing data structures in Azure SQL and integrating asynchronous messaging via Apache Kafka for external service communication. Manage service deployments on Kubernetes (AKS) clusters through Jenkins pipelines, ensuring high code quality with unit and integration testing (JUnit/Mockito) within an Agile (Scrum) environment.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "RxJava",
+      "Azure SQL",
+      "Kubernetes (AKS)",
+      "Apache Kafka",
+      "JWT",
+      "Jenkins",
+      "Unit Testing"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Fractal Consulting",
+    "role": "Full-stack Developer",
+    "period": "Jan 2024 - Oct 2024",
+    "type": "Full-time",
+    "description": "Developed robust REST APIs using Spring Boot and JPA/Hibernate for data persistence across Oracle and SQL Server. Built dynamic, responsive user interfaces with Angular and Tailwind CSS. Implemented security layers using Spring Security and JWT, while optimizing data retrieval through the implementation of stored procedures.",
+    "skills": [
+      "Spring Boot",
+      "Angular",
+      "Tailwind CSS",
+      "Spring Security",
+      "Oracle DB",
+      "Hibernate",
+      "AWS"
+    ]
+  },
+  {
+    "company": "Ghiferdi",
+    "role": "Full-stack Developer",
+    "period": "Jul 2022 - Sep 2023",
+    "type": "Full-time",
+    "description": "Executed end-to-end web development using PHP and the CodeIgniter framework. Developed interactive dashboards with JQuery and ChartJS, including automated dynamic report generation (PDF/CSV). Implemented Role-Based Access Control (RBAC) and ensured mobile-first responsiveness using Bootstrap 5.",
+    "skills": [
+      "PHP",
+      "CodeIgniter",
+      "MySQL",
+      "JQuery",
+      "ChartJS",
+      "Bootstrap 5"
+    ]
+  },
+  {
+    "company": "Stefanini IT Solutions",
+    "role": "Analyst Developer",
+    "period": "Feb 2022 - Jul 2022",
+    "type": "Full-time",
+    "description": "Developed modular components and libraries in Java following Object-Oriented Programming (OOP) principles. Focused on consuming third-party APIs and ensuring data integrity through comprehensive testing in Postman and optimized SQL query execution for internal data processing.",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Postman",
+      "API Integration",
+      "Git"
+    ]
+  },
+  {
+    "company": "Inveritas Global Holdings",
+    "role": "Programmer Analyst",
+    "period": "Dec 2021 - Feb 2022",
+    "type": "Full-time",
+    "description": "Collaborated on technical analysis and business logic implementation in Java. Standardized development workflows via Git and executed technical tests on service endpoints to ensure seamless communication between internal and external systems.",
+    "skills": [
+      "Java",
+      "SQL",
+      "Git",
+      "Software Analysis",
+      "Unit Testing"
+    ]
   }
 ]
